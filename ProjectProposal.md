@@ -1,4 +1,4 @@
-# Title: Exploratory Data Analysis on Yellow and Green Taxis
+# Title: NYC Yellow Taxi Data
 
 ## Summary
 (Paragraph about the sudden upheaval in taxis fares since 2018)
