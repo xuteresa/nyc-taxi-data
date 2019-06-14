@@ -1,34 +1,22 @@
-Team-3  Project-1
+Team-3  Project1
 
 Team Members: Kevin Freehill, Krystal Briggs,Serge Guilao, and Teresa Xu
 
-#Project Proposan/Outline
+Title: NYC Yellow Taxi Data
+Summary
+(Paragraph about the sudden upheaval in taxis fares since 2018)
 
-Our project is to uncover the relationships between homelessness and types of disability in New York City. We will examine the trends and patterns of homelessness rate, by demographic group, over the course of the year due to types of disability.
+Research Questions:
+What are the most significant predictors for a taxi driver to maxizime their revenue eraned per distance traveled?
+What are the most significant predictors for a taxi driver to maximize their revenue earned per unit of time?
+In this report, we will compare the relationship between revenue and the following independent variables
 
-We will for example study the correlation between:
+Pickup Location
+Dropoff Location
+Passenger number
+Rate ID
+Time of Day
+Day of Week
+Finally, we will use a series of chi square tests to compare the significance of each independent variable on revenue.
 
-Homelessness And Alcoholism-Disability
-
-Homelessness And Drug - Disability
-
-Homelessness And Alcohol-Drug-Disability
-
-Homelessness And Chronic Health Disability
-
-Homelessness And Physical Disability
-
-Homelessness And Developmental Disability
-
-Homelessness And Hearing Disability
-
-Homelessness And Mental Disability
-
-Homelessness And Dual Diagnosis Disability
-
-Questions We'd Like to Answer:
-Is there any correlation between Homelessness And Disability?
-
-What Types of Disability has the highest Homelessness rate?
-
-Whar are the patterns of homelessness in the demographic groups such as Age, Race, Gender, Ethnicity, Transexuals, Veteran, Etc..?
+The following steps are taken to complete the study: This study will allow consumers of Yellow and Green taxis to understand …… To analyze Yellow and Green taxi data, we will use the following:
