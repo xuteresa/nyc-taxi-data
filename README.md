@@ -1,34 +1,24 @@
 Team-3  Project-1
 
-Team Members: Kevin Freehill, Krystal Briggs,Serge Guilao, and Teresa Xu
+Team 3 NYC Taxi Data
+This readme is a WIP
 
-#Project Proposan/Outline
+Getting Data
+Start with January Data Add the lookup csv
 
-Our project is to uncover the relationships between homelessness and types of disability in New York City. We will examine the trends and patterns of homelessness rate, by demographic group, over the course of the year due to types of disability.
+Variables
+Dependent: revenue = total_amount
+Independent:
+PU location, DO location (mapped to the location name)
+Date/Time =
+Time of day by hour
+Day of Week (as available)
+distance
+Data cleaning
+Remove first row with NaN values code here
+Shared Functions
+TO DO!
 
-We will for example study the correlation between:
-
-Homelessness And Alcoholism-Disability
-
-Homelessness And Drug - Disability
-
-Homelessness And Alcohol-Drug-Disability
-
-Homelessness And Chronic Health Disability
-
-Homelessness And Physical Disability
-
-Homelessness And Developmental Disability
-
-Homelessness And Hearing Disability
-
-Homelessness And Mental Disability
-
-Homelessness And Dual Diagnosis Disability
-
-Questions We'd Like to Answer:
-Is there any correlation between Homelessness And Disability?
-
-What Types of Disability has the highest Homelessness rate?
-
-Whar are the patterns of homelessness in the demographic groups such as Age, Race, Gender, Ethnicity, Transexuals, Veteran, Etc..?
+Creating summary df code here with explanation
+Splitting date and time
+Plotting with Title, Axes, Legend
