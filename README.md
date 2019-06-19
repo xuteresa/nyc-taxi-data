@@ -18,8 +18,10 @@ distance
 Data cleaning
 Remove first row with NaN values code here
 Shared Functions
-TO DO!
+
 
 Creating summary df code here with explanation
+
 Splitting date and time
+
 Plotting with Title, Axes, Legend
