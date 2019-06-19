@@ -1,10 +1,11 @@
 Team-3  Project-1
 
 Team 3 NYC Taxi Data
+
 This readme is a WIP
 
-Getting Data
-Start with January Data Add the lookup csv
+Getting Data:
+  Start with January Data Add the lookup csv
 
 Variables
 Dependent: revenue = total_amount
