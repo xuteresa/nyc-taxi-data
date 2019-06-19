@@ -1,10 +1,8 @@
 # Title: NYC Yellow Taxi Data
 
 ## Summary
-(Paragraph about the sudden upheaval in taxis fares since 2018)
 * Research Questions:
   * What are the most significant predictors for a taxi driver to maxizime their revenue eraned per distance traveled? 
-  * What are the most significant predictors for a taxi driver to maximize their revenue earned per unit of time?
   
 In this report, we will compare the relationship between revenue and the following independent variables 
 * Pickup Location
@@ -14,8 +12,10 @@ In this report, we will compare the relationship between revenue and the followi
 * Time of Day
 * Day of Week
 
-Finally, we will use a series of chi square tests to compare the significance of each independent variable on revenue.
+Our Hypotheses are:
+* H1: Rides starting in midtown would yield the most revenue
+* H2: Rate Code (e.g. trips to airport) would be the strongest determinant in revenue generation
+* H3: Weekday rush hour trips (7-10am and 4-7pm) would generate more revenue than weekend rides and non-rush hour trips
+* H4: Higher passenger counts would yield higher revenue than low passenger count rides
 
-The following steps are taken to complete the study:
-This study will allow consumers of Yellow and Green taxis to understand ……
-To analyze Yellow and Green taxi data, we will use the following:
+We plan to examine what trip data says about areas in New York, and come up with recommendations for taxi drivers to get the most out of their time on the road.
